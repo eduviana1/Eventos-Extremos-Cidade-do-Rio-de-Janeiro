@@ -1,0 +1,2981 @@
+Relatório Pluviométrico da Estação: Laranjeiras
+
+Dados normalizados para o Horário Brasileiro de Verão (HBV)
+
+Dia         Hora      HBV   15 min   01 h   04 h   24 h   96 h
+01/01/2001  00:05:40  HBV      3.6    4.6   14.6   19.6   20.0
+01/01/2001  00:20:40  HBV      1.0    5.6   15.6   20.6   21.0
+01/01/2001  00:35:40  HBV      4.8   10.2   19.2   25.4   25.8
+01/01/2001  00:50:40  HBV      0.8   10.2   19.6   26.2   26.6
+01/01/2001  01:05:40            ND     ND     ND     ND     ND
+01/01/2001  01:20:40            ND     ND     ND     ND     ND
+01/01/2001  01:35:40            ND     ND     ND     ND     ND
+01/01/2001  01:50:40            ND     ND     ND     ND     ND
+01/01/2001  02:05:40            ND     ND     ND     ND     ND
+01/01/2001  02:20:40            ND     ND     ND     ND     ND
+01/01/2001  02:35:40            ND     ND     ND     ND     ND
+01/01/2001  02:50:40            ND     ND     ND     ND     ND
+01/01/2001  03:05:40            ND     ND     ND     ND     ND
+01/01/2001  03:20:40            ND     ND     ND     ND     ND
+01/01/2001  03:35:40            ND     ND     ND     ND     ND
+01/01/2001  03:50:40            ND     ND     ND     ND     ND
+01/01/2001  04:05:40            ND     ND     ND     ND     ND
+01/01/2001  04:20:40            ND     ND     ND     ND     ND
+01/01/2001  04:35:40            ND     ND     ND     ND     ND
+01/01/2001  04:50:40            ND     ND     ND     ND     ND
+01/01/2001  05:05:40            ND     ND     ND     ND     ND
+01/01/2001  05:20:40            ND     ND     ND     ND     ND
+01/01/2001  05:35:40            ND     ND     ND     ND     ND
+01/01/2001  05:50:40            ND     ND     ND     ND     ND
+01/01/2001  06:05:40            ND     ND     ND     ND     ND
+01/01/2001  06:20:40            ND     ND     ND     ND     ND
+01/01/2001  06:35:40            ND     ND     ND     ND     ND
+01/01/2001  06:50:40            ND     ND     ND     ND     ND
+01/01/2001  07:05:40            ND     ND     ND     ND     ND
+01/01/2001  07:20:40            ND     ND     ND     ND     ND
+01/01/2001  07:35:40            ND     ND     ND     ND     ND
+01/01/2001  07:50:40            ND     ND     ND     ND     ND
+01/01/2001  08:05:40            ND     ND     ND     ND     ND
+01/01/2001  08:20:40            ND     ND     ND     ND     ND
+01/01/2001  08:35:40            ND     ND     ND     ND     ND
+01/01/2001  08:50:40            ND     ND     ND     ND     ND
+01/01/2001  09:05:40            ND     ND     ND     ND     ND
+01/01/2001  09:20:40            ND     ND     ND     ND     ND
+01/01/2001  09:35:40            ND     ND     ND     ND     ND
+01/01/2001  09:50:40            ND     ND     ND     ND     ND
+01/01/2001  10:05:40            ND     ND     ND     ND     ND
+01/01/2001  10:20:40            ND     ND     ND     ND     ND
+01/01/2001  10:35:40            ND     ND     ND     ND     ND
+01/01/2001  10:50:40            ND     ND     ND     ND     ND
+01/01/2001  11:05:40            ND     ND     ND     ND     ND
+01/01/2001  11:20:40            ND     ND     ND     ND     ND
+01/01/2001  11:35:40            ND     ND     ND     ND     ND
+01/01/2001  11:50:40            ND     ND     ND     ND     ND
+01/01/2001  12:05:40            ND     ND     ND     ND     ND
+01/01/2001  12:20:40            ND     ND     ND     ND     ND
+01/01/2001  12:35:40            ND     ND     ND     ND     ND
+01/01/2001  12:50:40            ND     ND     ND     ND     ND
+01/01/2001  13:05:40            ND     ND     ND     ND     ND
+01/01/2001  13:20:40            ND     ND     ND     ND     ND
+01/01/2001  13:35:40            ND     ND     ND     ND     ND
+01/01/2001  13:50:40            ND     ND     ND     ND     ND
+01/01/2001  14:05:40            ND     ND     ND     ND     ND
+01/01/2001  14:20:40            ND     ND     ND     ND     ND
+01/01/2001  14:35:40            ND     ND     ND     ND     ND
+01/01/2001  14:50:40            ND     ND     ND     ND     ND
+01/01/2001  15:05:40            ND     ND     ND     ND     ND
+01/01/2001  15:20:40            ND     ND     ND     ND     ND
+01/01/2001  15:35:40            ND     ND     ND     ND     ND
+01/01/2001  15:50:40            ND     ND     ND     ND     ND
+01/01/2001  16:05:40            ND     ND     ND     ND     ND
+01/01/2001  16:20:40            ND     ND     ND     ND     ND
+01/01/2001  16:35:40            ND     ND     ND     ND     ND
+01/01/2001  16:50:40            ND     ND     ND     ND     ND
+01/01/2001  17:05:40            ND     ND     ND     ND     ND
+01/01/2001  17:20:40            ND     ND     ND     ND     ND
+01/01/2001  17:35:40            ND     ND     ND     ND     ND
+01/01/2001  17:50:40            ND     ND     ND     ND     ND
+01/01/2001  18:05:40            ND     ND     ND     ND     ND
+01/01/2001  18:20:40            ND     ND     ND     ND     ND
+01/01/2001  18:35:40            ND     ND     ND     ND     ND
+01/01/2001  18:50:40            ND     ND     ND     ND     ND
+01/01/2001  19:05:40            ND     ND     ND     ND     ND
+01/01/2001  19:20:40            ND     ND     ND     ND     ND
+01/01/2001  19:35:40            ND     ND     ND     ND     ND
+01/01/2001  19:50:40            ND     ND     ND     ND     ND
+01/01/2001  20:05:40            ND     ND     ND     ND     ND
+01/01/2001  20:20:40            ND     ND     ND     ND     ND
+01/01/2001  20:35:40            ND     ND     ND     ND     ND
+01/01/2001  20:50:40            ND     ND     ND     ND     ND
+01/01/2001  21:05:40            ND     ND     ND     ND     ND
+01/01/2001  21:20:40            ND     ND     ND     ND     ND
+01/01/2001  21:35:40            ND     ND     ND     ND     ND
+01/01/2001  21:50:40            ND     ND     ND     ND     ND
+01/01/2001  22:05:40            ND     ND     ND     ND     ND
+01/01/2001  22:20:40            ND     ND     ND     ND     ND
+01/01/2001  22:35:40            ND     ND     ND     ND     ND
+01/01/2001  22:50:40            ND     ND     ND     ND     ND
+01/01/2001  23:05:40            ND     ND     ND     ND     ND
+01/01/2001  23:20:40            ND     ND     ND     ND     ND
+01/01/2001  23:35:40            ND     ND     ND     ND     ND
+01/01/2001  23:50:40            ND     ND     ND     ND     ND
+02/01/2001  00:05:40            ND     ND     ND     ND     ND
+02/01/2001  00:20:40            ND     ND     ND     ND     ND
+02/01/2001  00:35:40            ND     ND     ND     ND     ND
+02/01/2001  00:50:40            ND     ND     ND     ND     ND
+02/01/2001  01:05:40            ND     ND     ND     ND     ND
+02/01/2001  01:20:40            ND     ND     ND     ND     ND
+02/01/2001  01:35:40            ND     ND     ND     ND     ND
+02/01/2001  01:50:40            ND     ND     ND     ND     ND
+02/01/2001  02:05:40            ND     ND     ND     ND     ND
+02/01/2001  02:20:40            ND     ND     ND     ND     ND
+02/01/2001  02:35:40            ND     ND     ND     ND     ND
+02/01/2001  02:50:40            ND     ND     ND     ND     ND
+02/01/2001  03:05:40            ND     ND     ND     ND     ND
+02/01/2001  03:20:40            ND     ND     ND     ND     ND
+02/01/2001  03:35:40            ND     ND     ND     ND     ND
+02/01/2001  03:50:40            ND     ND     ND     ND     ND
+02/01/2001  04:05:40            ND     ND     ND     ND     ND
+02/01/2001  04:20:40            ND     ND     ND     ND     ND
+02/01/2001  04:35:40            ND     ND     ND     ND     ND
+02/01/2001  04:50:40            ND     ND     ND     ND     ND
+02/01/2001  05:05:40            ND     ND     ND     ND     ND
+02/01/2001  05:20:40            ND     ND     ND     ND     ND
+02/01/2001  05:35:40            ND     ND     ND     ND     ND
+02/01/2001  05:50:40            ND     ND     ND     ND     ND
+02/01/2001  06:05:40            ND     ND     ND     ND     ND
+02/01/2001  06:20:40            ND     ND     ND     ND     ND
+02/01/2001  06:35:40            ND     ND     ND     ND     ND
+02/01/2001  06:50:40            ND     ND     ND     ND     ND
+02/01/2001  07:05:40            ND     ND     ND     ND     ND
+02/01/2001  07:20:40            ND     ND     ND     ND     ND
+02/01/2001  07:35:40            ND     ND     ND     ND     ND
+02/01/2001  07:50:40            ND     ND     ND     ND     ND
+02/01/2001  08:05:40            ND     ND     ND     ND     ND
+02/01/2001  08:20:40            ND     ND     ND     ND     ND
+02/01/2001  08:35:40            ND     ND     ND     ND     ND
+02/01/2001  08:50:40            ND     ND     ND     ND     ND
+02/01/2001  09:05:40            ND     ND     ND     ND     ND
+02/01/2001  09:20:40            ND     ND     ND     ND     ND
+02/01/2001  09:35:40            ND     ND     ND     ND     ND
+02/01/2001  09:50:40            ND     ND     ND     ND     ND
+02/01/2001  10:05:40            ND     ND     ND     ND     ND
+02/01/2001  10:20:40            ND     ND     ND     ND     ND
+02/01/2001  10:35:40            ND     ND     ND     ND     ND
+02/01/2001  10:50:40            ND     ND     ND     ND     ND
+02/01/2001  11:05:40            ND     ND     ND     ND     ND
+02/01/2001  11:20:40            ND     ND     ND     ND     ND
+02/01/2001  11:35:40            ND     ND     ND     ND     ND
+02/01/2001  11:50:40            ND     ND     ND     ND     ND
+02/01/2001  12:05:40            ND     ND     ND     ND     ND
+02/01/2001  12:20:40            ND     ND     ND     ND     ND
+02/01/2001  12:35:40            ND     ND     ND     ND     ND
+02/01/2001  12:50:40            ND     ND     ND     ND     ND
+02/01/2001  13:05:40            ND     ND     ND     ND     ND
+02/01/2001  13:20:40            ND     ND     ND     ND     ND
+02/01/2001  13:35:40            ND     ND     ND     ND     ND
+02/01/2001  13:50:40            ND     ND     ND     ND     ND
+02/01/2001  14:05:40            ND     ND     ND     ND     ND
+02/01/2001  14:20:40            ND     ND     ND     ND     ND
+02/01/2001  14:35:40            ND     ND     ND     ND     ND
+02/01/2001  14:50:40            ND     ND     ND     ND     ND
+02/01/2001  15:05:40            ND     ND     ND     ND     ND
+02/01/2001  15:20:40            ND     ND     ND     ND     ND
+02/01/2001  15:35:40            ND     ND     ND     ND     ND
+02/01/2001  15:50:40            ND     ND     ND     ND     ND
+02/01/2001  16:05:40            ND     ND     ND     ND     ND
+02/01/2001  16:20:40            ND     ND     ND     ND     ND
+02/01/2001  16:35:40            ND     ND     ND     ND     ND
+02/01/2001  16:50:40            ND     ND     ND     ND     ND
+02/01/2001  17:05:40            ND     ND     ND     ND     ND
+02/01/2001  17:20:40            ND     ND     ND     ND     ND
+02/01/2001  17:35:40            ND     ND     ND     ND     ND
+02/01/2001  17:50:40            ND     ND     ND     ND     ND
+02/01/2001  18:05:40            ND     ND     ND     ND     ND
+02/01/2001  18:20:40            ND     ND     ND     ND     ND
+02/01/2001  18:35:40            ND     ND     ND     ND     ND
+02/01/2001  18:50:40            ND     ND     ND     ND     ND
+02/01/2001  19:05:40            ND     ND     ND     ND     ND
+02/01/2001  19:20:40            ND     ND     ND     ND     ND
+02/01/2001  19:35:40            ND     ND     ND     ND     ND
+02/01/2001  19:50:40            ND     ND     ND     ND     ND
+02/01/2001  20:05:40            ND     ND     ND     ND     ND
+02/01/2001  20:20:40            ND     ND     ND     ND     ND
+02/01/2001  20:35:40            ND     ND     ND     ND     ND
+02/01/2001  20:50:40            ND     ND     ND     ND     ND
+02/01/2001  21:05:40            ND     ND     ND     ND     ND
+02/01/2001  21:20:40            ND     ND     ND     ND     ND
+02/01/2001  21:35:40            ND     ND     ND     ND     ND
+02/01/2001  21:50:40            ND     ND     ND     ND     ND
+02/01/2001  22:05:40            ND     ND     ND     ND     ND
+02/01/2001  22:20:40            ND     ND     ND     ND     ND
+02/01/2001  22:35:40            ND     ND     ND     ND     ND
+02/01/2001  22:50:40            ND     ND     ND     ND     ND
+02/01/2001  23:05:40            ND     ND     ND     ND     ND
+02/01/2001  23:20:40            ND     ND     ND     ND     ND
+02/01/2001  23:35:40            ND     ND     ND     ND     ND
+02/01/2001  23:50:40            ND     ND     ND     ND     ND
+03/01/2001  00:05:40            ND     ND     ND     ND     ND
+03/01/2001  00:20:40            ND     ND     ND     ND     ND
+03/01/2001  00:35:40            ND     ND     ND     ND     ND
+03/01/2001  00:50:40            ND     ND     ND     ND     ND
+03/01/2001  01:05:40            ND     ND     ND     ND     ND
+03/01/2001  01:20:40            ND     ND     ND     ND     ND
+03/01/2001  01:35:40            ND     ND     ND     ND     ND
+03/01/2001  01:50:40            ND     ND     ND     ND     ND
+03/01/2001  02:05:40            ND     ND     ND     ND     ND
+03/01/2001  02:20:40            ND     ND     ND     ND     ND
+03/01/2001  02:35:40            ND     ND     ND     ND     ND
+03/01/2001  02:50:40            ND     ND     ND     ND     ND
+03/01/2001  03:05:40            ND     ND     ND     ND     ND
+03/01/2001  03:20:40            ND     ND     ND     ND     ND
+03/01/2001  03:35:40            ND     ND     ND     ND     ND
+03/01/2001  03:50:40            ND     ND     ND     ND     ND
+03/01/2001  04:05:40            ND     ND     ND     ND     ND
+03/01/2001  04:20:40            ND     ND     ND     ND     ND
+03/01/2001  04:35:40            ND     ND     ND     ND     ND
+03/01/2001  04:50:40            ND     ND     ND     ND     ND
+03/01/2001  05:05:40            ND     ND     ND     ND     ND
+03/01/2001  05:20:40            ND     ND     ND     ND     ND
+03/01/2001  05:35:40            ND     ND     ND     ND     ND
+03/01/2001  05:50:40            ND     ND     ND     ND     ND
+03/01/2001  06:05:40            ND     ND     ND     ND     ND
+03/01/2001  06:20:40            ND     ND     ND     ND     ND
+03/01/2001  06:35:40            ND     ND     ND     ND     ND
+03/01/2001  06:50:40            ND     ND     ND     ND     ND
+03/01/2001  07:05:40            ND     ND     ND     ND     ND
+03/01/2001  07:20:40            ND     ND     ND     ND     ND
+03/01/2001  07:35:40            ND     ND     ND     ND     ND
+03/01/2001  07:50:40            ND     ND     ND     ND     ND
+03/01/2001  08:05:40            ND     ND     ND     ND     ND
+03/01/2001  08:20:40            ND     ND     ND     ND     ND
+03/01/2001  08:35:40            ND     ND     ND     ND     ND
+03/01/2001  08:50:40            ND     ND     ND     ND     ND
+03/01/2001  09:05:40            ND     ND     ND     ND     ND
+03/01/2001  09:20:40            ND     ND     ND     ND     ND
+03/01/2001  09:35:40            ND     ND     ND     ND     ND
+03/01/2001  09:50:40            ND     ND     ND     ND     ND
+03/01/2001  10:05:40            ND     ND     ND     ND     ND
+03/01/2001  10:20:40            ND     ND     ND     ND     ND
+03/01/2001  10:35:40            ND     ND     ND     ND     ND
+03/01/2001  10:50:40            ND     ND     ND     ND     ND
+03/01/2001  11:05:40            ND     ND     ND     ND     ND
+03/01/2001  11:20:40            ND     ND     ND     ND     ND
+03/01/2001  11:35:40            ND     ND     ND     ND     ND
+03/01/2001  11:50:40            ND     ND     ND     ND     ND
+03/01/2001  12:05:40            ND     ND     ND     ND     ND
+03/01/2001  12:20:40            ND     ND     ND     ND     ND
+03/01/2001  12:35:40            ND     ND     ND     ND     ND
+03/01/2001  12:50:40            ND     ND     ND     ND     ND
+03/01/2001  13:05:40            ND     ND     ND     ND     ND
+03/01/2001  13:20:40            ND     ND     ND     ND     ND
+03/01/2001  13:35:40            ND     ND     ND     ND     ND
+03/01/2001  13:50:40            ND     ND     ND     ND     ND
+03/01/2001  14:05:40            ND     ND     ND     ND     ND
+03/01/2001  14:20:40            ND     ND     ND     ND     ND
+03/01/2001  14:35:40            ND     ND     ND     ND     ND
+03/01/2001  14:50:40            ND     ND     ND     ND     ND
+03/01/2001  15:05:40            ND     ND     ND     ND     ND
+03/01/2001  15:20:40            ND     ND     ND     ND     ND
+03/01/2001  15:35:40            ND     ND     ND     ND     ND
+03/01/2001  15:50:40            ND     ND     ND     ND     ND
+03/01/2001  16:05:40            ND     ND     ND     ND     ND
+03/01/2001  16:20:40            ND     ND     ND     ND     ND
+03/01/2001  16:35:40            ND     ND     ND     ND     ND
+03/01/2001  16:50:40            ND     ND     ND     ND     ND
+03/01/2001  17:05:40            ND     ND     ND     ND     ND
+03/01/2001  17:20:40            ND     ND     ND     ND     ND
+03/01/2001  17:35:40            ND     ND     ND     ND     ND
+03/01/2001  17:50:40            ND     ND     ND     ND     ND
+03/01/2001  18:05:40            ND     ND     ND     ND     ND
+03/01/2001  18:20:40            ND     ND     ND     ND     ND
+03/01/2001  18:35:40            ND     ND     ND     ND     ND
+03/01/2001  18:50:40            ND     ND     ND     ND     ND
+03/01/2001  19:05:40            ND     ND     ND     ND     ND
+03/01/2001  19:20:40            ND     ND     ND     ND     ND
+03/01/2001  19:35:40            ND     ND     ND     ND     ND
+03/01/2001  19:50:40            ND     ND     ND     ND     ND
+03/01/2001  20:05:40            ND     ND     ND     ND     ND
+03/01/2001  20:20:40            ND     ND     ND     ND     ND
+03/01/2001  20:35:40            ND     ND     ND     ND     ND
+03/01/2001  20:50:40            ND     ND     ND     ND     ND
+03/01/2001  21:05:40            ND     ND     ND     ND     ND
+03/01/2001  21:20:40            ND     ND     ND     ND     ND
+03/01/2001  21:35:40            ND     ND     ND     ND     ND
+03/01/2001  21:50:40            ND     ND     ND     ND     ND
+03/01/2001  22:05:40            ND     ND     ND     ND     ND
+03/01/2001  22:20:40            ND     ND     ND     ND     ND
+03/01/2001  22:35:40            ND     ND     ND     ND     ND
+03/01/2001  22:50:40            ND     ND     ND     ND     ND
+03/01/2001  23:05:40            ND     ND     ND     ND     ND
+03/01/2001  23:20:40            ND     ND     ND     ND     ND
+03/01/2001  23:35:40            ND     ND     ND     ND     ND
+03/01/2001  23:50:40            ND     ND     ND     ND     ND
+04/01/2001  00:05:40            ND     ND     ND     ND     ND
+04/01/2001  00:20:40            ND     ND     ND     ND     ND
+04/01/2001  00:35:40            ND     ND     ND     ND     ND
+04/01/2001  00:50:40            ND     ND     ND     ND     ND
+04/01/2001  01:05:40            ND     ND     ND     ND     ND
+04/01/2001  01:20:40            ND     ND     ND     ND     ND
+04/01/2001  01:35:40            ND     ND     ND     ND     ND
+04/01/2001  01:50:40            ND     ND     ND     ND     ND
+04/01/2001  02:05:40            ND     ND     ND     ND     ND
+04/01/2001  02:20:40            ND     ND     ND     ND     ND
+04/01/2001  02:35:40            ND     ND     ND     ND     ND
+04/01/2001  02:50:40            ND     ND     ND     ND     ND
+04/01/2001  03:05:40            ND     ND     ND     ND     ND
+04/01/2001  03:20:40            ND     ND     ND     ND     ND
+04/01/2001  03:35:40            ND     ND     ND     ND     ND
+04/01/2001  03:50:40            ND     ND     ND     ND     ND
+04/01/2001  04:05:40            ND     ND     ND     ND     ND
+04/01/2001  04:20:40            ND     ND     ND     ND     ND
+04/01/2001  04:35:40            ND     ND     ND     ND     ND
+04/01/2001  04:50:40            ND     ND     ND     ND     ND
+04/01/2001  05:05:40            ND     ND     ND     ND     ND
+04/01/2001  05:20:40            ND     ND     ND     ND     ND
+04/01/2001  05:35:40            ND     ND     ND     ND     ND
+04/01/2001  05:50:40            ND     ND     ND     ND     ND
+04/01/2001  06:05:40            ND     ND     ND     ND     ND
+04/01/2001  06:20:40            ND     ND     ND     ND     ND
+04/01/2001  06:35:40            ND     ND     ND     ND     ND
+04/01/2001  06:50:40            ND     ND     ND     ND     ND
+04/01/2001  07:05:40            ND     ND     ND     ND     ND
+04/01/2001  07:20:40            ND     ND     ND     ND     ND
+04/01/2001  07:35:40            ND     ND     ND     ND     ND
+04/01/2001  07:50:40            ND     ND     ND     ND     ND
+04/01/2001  08:05:40            ND     ND     ND     ND     ND
+04/01/2001  08:20:40            ND     ND     ND     ND     ND
+04/01/2001  08:35:40            ND     ND     ND     ND     ND
+04/01/2001  08:50:40            ND     ND     ND     ND     ND
+04/01/2001  09:05:40            ND     ND     ND     ND     ND
+04/01/2001  09:20:40            ND     ND     ND     ND     ND
+04/01/2001  09:35:40            ND     ND     ND     ND     ND
+04/01/2001  09:50:40            ND     ND     ND     ND     ND
+04/01/2001  10:05:40            ND     ND     ND     ND     ND
+04/01/2001  10:20:40            ND     ND     ND     ND     ND
+04/01/2001  10:35:40            ND     ND     ND     ND     ND
+04/01/2001  10:50:40            ND     ND     ND     ND     ND
+04/01/2001  11:05:40            ND     ND     ND     ND     ND
+04/01/2001  11:20:40            ND     ND     ND     ND     ND
+04/01/2001  11:35:40            ND     ND     ND     ND     ND
+04/01/2001  11:50:40            ND     ND     ND     ND     ND
+04/01/2001  12:05:40            ND     ND     ND     ND     ND
+04/01/2001  12:20:40            ND     ND     ND     ND     ND
+04/01/2001  12:35:40            ND     ND     ND     ND     ND
+04/01/2001  12:50:40            ND     ND     ND     ND     ND
+04/01/2001  13:05:40            ND     ND     ND     ND     ND
+04/01/2001  13:20:40            ND     ND     ND     ND     ND
+04/01/2001  13:35:40            ND     ND     ND     ND     ND
+04/01/2001  13:50:40            ND     ND     ND     ND     ND
+04/01/2001  14:05:40            ND     ND     ND     ND     ND
+04/01/2001  14:20:40            ND     ND     ND     ND     ND
+04/01/2001  14:35:40            ND     ND     ND     ND     ND
+04/01/2001  14:50:40            ND     ND     ND     ND     ND
+04/01/2001  15:05:40            ND     ND     ND     ND     ND
+04/01/2001  15:20:40            ND     ND     ND     ND     ND
+04/01/2001  15:35:40            ND     ND     ND     ND     ND
+04/01/2001  15:50:40            ND     ND     ND     ND     ND
+04/01/2001  16:05:40            ND     ND     ND     ND     ND
+04/01/2001  16:20:40            ND     ND     ND     ND     ND
+04/01/2001  16:35:40            ND     ND     ND     ND     ND
+04/01/2001  16:50:40            ND     ND     ND     ND     ND
+04/01/2001  17:05:40            ND     ND     ND     ND     ND
+04/01/2001  17:20:40            ND     ND     ND     ND     ND
+04/01/2001  17:35:40            ND     ND     ND     ND     ND
+04/01/2001  17:50:40            ND     ND     ND     ND     ND
+04/01/2001  18:05:40            ND     ND     ND     ND     ND
+04/01/2001  18:20:40            ND     ND     ND     ND     ND
+04/01/2001  18:35:40            ND     ND     ND     ND     ND
+04/01/2001  18:50:40            ND     ND     ND     ND     ND
+04/01/2001  19:05:40            ND     ND     ND     ND     ND
+04/01/2001  19:20:40            ND     ND     ND     ND     ND
+04/01/2001  19:35:40            ND     ND     ND     ND     ND
+04/01/2001  19:50:40            ND     ND     ND     ND     ND
+04/01/2001  20:05:40            ND     ND     ND     ND     ND
+04/01/2001  20:20:40            ND     ND     ND     ND     ND
+04/01/2001  20:35:40            ND     ND     ND     ND     ND
+04/01/2001  20:50:40            ND     ND     ND     ND     ND
+04/01/2001  21:05:40            ND     ND     ND     ND     ND
+04/01/2001  21:20:40            ND     ND     ND     ND     ND
+04/01/2001  21:35:40            ND     ND     ND     ND     ND
+04/01/2001  21:50:40            ND     ND     ND     ND     ND
+04/01/2001  22:05:40            ND     ND     ND     ND     ND
+04/01/2001  22:20:40            ND     ND     ND     ND     ND
+04/01/2001  22:35:40            ND     ND     ND     ND     ND
+04/01/2001  22:50:40            ND     ND     ND     ND     ND
+04/01/2001  23:05:40            ND     ND     ND     ND     ND
+04/01/2001  23:20:40            ND     ND     ND     ND     ND
+04/01/2001  23:35:40            ND     ND     ND     ND     ND
+04/01/2001  23:50:40            ND     ND     ND     ND     ND
+05/01/2001  00:05:40            ND     ND     ND     ND     ND
+05/01/2001  00:20:40            ND     ND     ND     ND     ND
+05/01/2001  00:35:40            ND     ND     ND     ND     ND
+05/01/2001  00:50:40            ND     ND     ND     ND     ND
+05/01/2001  01:05:40            ND     ND     ND     ND     ND
+05/01/2001  01:20:40            ND     ND     ND     ND     ND
+05/01/2001  01:35:40            ND     ND     ND     ND     ND
+05/01/2001  01:50:40            ND     ND     ND     ND     ND
+05/01/2001  02:05:40            ND     ND     ND     ND     ND
+05/01/2001  02:20:40            ND     ND     ND     ND     ND
+05/01/2001  02:35:40            ND     ND     ND     ND     ND
+05/01/2001  02:50:40            ND     ND     ND     ND     ND
+05/01/2001  03:05:40            ND     ND     ND     ND     ND
+05/01/2001  03:20:40            ND     ND     ND     ND     ND
+05/01/2001  03:35:40            ND     ND     ND     ND     ND
+05/01/2001  03:50:40            ND     ND     ND     ND     ND
+05/01/2001  04:05:40            ND     ND     ND     ND     ND
+05/01/2001  04:20:40            ND     ND     ND     ND     ND
+05/01/2001  04:35:40            ND     ND     ND     ND     ND
+05/01/2001  04:50:40            ND     ND     ND     ND     ND
+05/01/2001  05:05:40            ND     ND     ND     ND     ND
+05/01/2001  05:20:40            ND     ND     ND     ND     ND
+05/01/2001  05:35:40            ND     ND     ND     ND     ND
+05/01/2001  05:50:40            ND     ND     ND     ND     ND
+05/01/2001  06:05:40            ND     ND     ND     ND     ND
+05/01/2001  06:20:40            ND     ND     ND     ND     ND
+05/01/2001  06:35:40            ND     ND     ND     ND     ND
+05/01/2001  06:50:40            ND     ND     ND     ND     ND
+05/01/2001  07:05:40            ND     ND     ND     ND     ND
+05/01/2001  07:20:40            ND     ND     ND     ND     ND
+05/01/2001  07:35:40            ND     ND     ND     ND     ND
+05/01/2001  07:50:40            ND     ND     ND     ND     ND
+05/01/2001  08:05:40            ND     ND     ND     ND     ND
+05/01/2001  08:20:40            ND     ND     ND     ND     ND
+05/01/2001  08:35:40            ND     ND     ND     ND     ND
+05/01/2001  08:50:40            ND     ND     ND     ND     ND
+05/01/2001  09:05:40            ND     ND     ND     ND     ND
+05/01/2001  09:20:40            ND     ND     ND     ND     ND
+05/01/2001  09:35:40            ND     ND     ND     ND     ND
+05/01/2001  09:50:40            ND     ND     ND     ND     ND
+05/01/2001  10:05:40            ND     ND     ND     ND     ND
+05/01/2001  10:20:40            ND     ND     ND     ND     ND
+05/01/2001  10:35:40            ND     ND     ND     ND     ND
+05/01/2001  10:50:40            ND     ND     ND     ND     ND
+05/01/2001  11:05:40            ND     ND     ND     ND     ND
+05/01/2001  11:20:40            ND     ND     ND     ND     ND
+05/01/2001  11:35:40            ND     ND     ND     ND     ND
+05/01/2001  11:50:40            ND     ND     ND     ND     ND
+05/01/2001  12:05:40            ND     ND     ND     ND     ND
+05/01/2001  12:20:40            ND     ND     ND     ND     ND
+05/01/2001  12:35:40            ND     ND     ND     ND     ND
+05/01/2001  12:50:40            ND     ND     ND     ND     ND
+05/01/2001  13:05:40            ND     ND     ND     ND     ND
+05/01/2001  13:20:40            ND     ND     ND     ND     ND
+05/01/2001  13:35:40            ND     ND     ND     ND     ND
+05/01/2001  13:50:40            ND     ND     ND     ND     ND
+05/01/2001  14:05:40            ND     ND     ND     ND     ND
+05/01/2001  14:20:40            ND     ND     ND     ND     ND
+05/01/2001  14:35:40            ND     ND     ND     ND     ND
+05/01/2001  14:50:40            ND     ND     ND     ND     ND
+05/01/2001  15:05:40            ND     ND     ND     ND     ND
+05/01/2001  15:20:40            ND     ND     ND     ND     ND
+05/01/2001  15:35:40            ND     ND     ND     ND     ND
+05/01/2001  15:50:40            ND     ND     ND     ND     ND
+05/01/2001  16:05:40            ND     ND     ND     ND     ND
+05/01/2001  16:20:40            ND     ND     ND     ND     ND
+05/01/2001  16:35:40            ND     ND     ND     ND     ND
+05/01/2001  16:50:40            ND     ND     ND     ND     ND
+05/01/2001  17:05:40            ND     ND     ND     ND     ND
+05/01/2001  17:20:40            ND     ND     ND     ND     ND
+05/01/2001  17:35:40            ND     ND     ND     ND     ND
+05/01/2001  17:50:40            ND     ND     ND     ND     ND
+05/01/2001  18:05:40            ND     ND     ND     ND     ND
+05/01/2001  18:20:40            ND     ND     ND     ND     ND
+05/01/2001  18:35:40            ND     ND     ND     ND     ND
+05/01/2001  18:50:40            ND     ND     ND     ND     ND
+05/01/2001  19:05:40            ND     ND     ND     ND     ND
+05/01/2001  19:20:40            ND     ND     ND     ND     ND
+05/01/2001  19:35:40            ND     ND     ND     ND     ND
+05/01/2001  19:50:40            ND     ND     ND     ND     ND
+05/01/2001  20:05:40            ND     ND     ND     ND     ND
+05/01/2001  20:20:40            ND     ND     ND     ND     ND
+05/01/2001  20:35:40            ND     ND     ND     ND     ND
+05/01/2001  20:50:40            ND     ND     ND     ND     ND
+05/01/2001  21:05:40            ND     ND     ND     ND     ND
+05/01/2001  21:20:40            ND     ND     ND     ND     ND
+05/01/2001  21:35:40            ND     ND     ND     ND     ND
+05/01/2001  21:50:40            ND     ND     ND     ND     ND
+05/01/2001  22:05:40            ND     ND     ND     ND     ND
+05/01/2001  22:20:40            ND     ND     ND     ND     ND
+05/01/2001  22:35:40            ND     ND     ND     ND     ND
+05/01/2001  22:50:40            ND     ND     ND     ND     ND
+05/01/2001  23:05:40            ND     ND     ND     ND     ND
+05/01/2001  23:20:40            ND     ND     ND     ND     ND
+05/01/2001  23:35:40            ND     ND     ND     ND     ND
+05/01/2001  23:50:40            ND     ND     ND     ND     ND
+06/01/2001  00:05:40            ND     ND     ND     ND     ND
+06/01/2001  00:20:40            ND     ND     ND     ND     ND
+06/01/2001  00:35:40            ND     ND     ND     ND     ND
+06/01/2001  00:50:40            ND     ND     ND     ND     ND
+06/01/2001  01:05:40            ND     ND     ND     ND     ND
+06/01/2001  01:20:40            ND     ND     ND     ND     ND
+06/01/2001  01:35:40            ND     ND     ND     ND     ND
+06/01/2001  01:50:40            ND     ND     ND     ND     ND
+06/01/2001  02:05:40            ND     ND     ND     ND     ND
+06/01/2001  02:20:40            ND     ND     ND     ND     ND
+06/01/2001  02:35:40            ND     ND     ND     ND     ND
+06/01/2001  02:50:40            ND     ND     ND     ND     ND
+06/01/2001  03:05:40            ND     ND     ND     ND     ND
+06/01/2001  03:20:40            ND     ND     ND     ND     ND
+06/01/2001  03:35:40            ND     ND     ND     ND     ND
+06/01/2001  03:50:40            ND     ND     ND     ND     ND
+06/01/2001  04:05:40            ND     ND     ND     ND     ND
+06/01/2001  04:20:40            ND     ND     ND     ND     ND
+06/01/2001  04:35:40            ND     ND     ND     ND     ND
+06/01/2001  04:50:40            ND     ND     ND     ND     ND
+06/01/2001  05:05:40            ND     ND     ND     ND     ND
+06/01/2001  05:20:40            ND     ND     ND     ND     ND
+06/01/2001  05:35:40            ND     ND     ND     ND     ND
+06/01/2001  05:50:40            ND     ND     ND     ND     ND
+06/01/2001  06:05:40            ND     ND     ND     ND     ND
+06/01/2001  06:20:40            ND     ND     ND     ND     ND
+06/01/2001  06:35:40            ND     ND     ND     ND     ND
+06/01/2001  06:50:40            ND     ND     ND     ND     ND
+06/01/2001  07:05:40            ND     ND     ND     ND     ND
+06/01/2001  07:20:40            ND     ND     ND     ND     ND
+06/01/2001  07:35:40            ND     ND     ND     ND     ND
+06/01/2001  07:50:40            ND     ND     ND     ND     ND
+06/01/2001  08:05:40            ND     ND     ND     ND     ND
+06/01/2001  08:20:40            ND     ND     ND     ND     ND
+06/01/2001  08:35:40            ND     ND     ND     ND     ND
+06/01/2001  08:50:40            ND     ND     ND     ND     ND
+06/01/2001  09:05:40            ND     ND     ND     ND     ND
+06/01/2001  09:20:40            ND     ND     ND     ND     ND
+06/01/2001  09:35:40            ND     ND     ND     ND     ND
+06/01/2001  09:50:40            ND     ND     ND     ND     ND
+06/01/2001  10:05:40            ND     ND     ND     ND     ND
+06/01/2001  10:20:40            ND     ND     ND     ND     ND
+06/01/2001  10:35:40            ND     ND     ND     ND     ND
+06/01/2001  10:50:40            ND     ND     ND     ND     ND
+06/01/2001  11:05:40            ND     ND     ND     ND     ND
+06/01/2001  11:20:40            ND     ND     ND     ND     ND
+06/01/2001  11:35:40            ND     ND     ND     ND     ND
+06/01/2001  11:50:40            ND     ND     ND     ND     ND
+06/01/2001  12:05:40            ND     ND     ND     ND     ND
+06/01/2001  12:20:40            ND     ND     ND     ND     ND
+06/01/2001  12:35:40            ND     ND     ND     ND     ND
+06/01/2001  12:50:40            ND     ND     ND     ND     ND
+06/01/2001  13:05:40            ND     ND     ND     ND     ND
+06/01/2001  13:20:40            ND     ND     ND     ND     ND
+06/01/2001  13:35:40            ND     ND     ND     ND     ND
+06/01/2001  13:50:40            ND     ND     ND     ND     ND
+06/01/2001  14:05:40            ND     ND     ND     ND     ND
+06/01/2001  14:20:40            ND     ND     ND     ND     ND
+06/01/2001  14:35:40            ND     ND     ND     ND     ND
+06/01/2001  14:50:40            ND     ND     ND     ND     ND
+06/01/2001  15:05:40            ND     ND     ND     ND     ND
+06/01/2001  15:20:40            ND     ND     ND     ND     ND
+06/01/2001  15:35:40            ND     ND     ND     ND     ND
+06/01/2001  15:50:40            ND     ND     ND     ND     ND
+06/01/2001  16:05:40            ND     ND     ND     ND     ND
+06/01/2001  16:20:40            ND     ND     ND     ND     ND
+06/01/2001  16:35:40            ND     ND     ND     ND     ND
+06/01/2001  16:50:40            ND     ND     ND     ND     ND
+06/01/2001  17:05:40            ND     ND     ND     ND     ND
+06/01/2001  17:20:40            ND     ND     ND     ND     ND
+06/01/2001  17:35:40            ND     ND     ND     ND     ND
+06/01/2001  17:50:40            ND     ND     ND     ND     ND
+06/01/2001  18:05:40            ND     ND     ND     ND     ND
+06/01/2001  18:20:40            ND     ND     ND     ND     ND
+06/01/2001  18:35:40            ND     ND     ND     ND     ND
+06/01/2001  18:50:40            ND     ND     ND     ND     ND
+06/01/2001  19:05:40            ND     ND     ND     ND     ND
+06/01/2001  19:20:40            ND     ND     ND     ND     ND
+06/01/2001  19:35:40            ND     ND     ND     ND     ND
+06/01/2001  19:50:40            ND     ND     ND     ND     ND
+06/01/2001  20:05:40            ND     ND     ND     ND     ND
+06/01/2001  20:20:40            ND     ND     ND     ND     ND
+06/01/2001  20:35:40            ND     ND     ND     ND     ND
+06/01/2001  20:50:40            ND     ND     ND     ND     ND
+06/01/2001  21:05:40            ND     ND     ND     ND     ND
+06/01/2001  21:20:40            ND     ND     ND     ND     ND
+06/01/2001  21:35:40            ND     ND     ND     ND     ND
+06/01/2001  21:50:40            ND     ND     ND     ND     ND
+06/01/2001  22:05:40            ND     ND     ND     ND     ND
+06/01/2001  22:20:40            ND     ND     ND     ND     ND
+06/01/2001  22:35:40            ND     ND     ND     ND     ND
+06/01/2001  22:50:40            ND     ND     ND     ND     ND
+06/01/2001  23:05:40            ND     ND     ND     ND     ND
+06/01/2001  23:20:40            ND     ND     ND     ND     ND
+06/01/2001  23:35:40            ND     ND     ND     ND     ND
+06/01/2001  23:50:40            ND     ND     ND     ND     ND
+07/01/2001  00:05:40            ND     ND     ND     ND     ND
+07/01/2001  00:20:40            ND     ND     ND     ND     ND
+07/01/2001  00:35:40            ND     ND     ND     ND     ND
+07/01/2001  00:50:40            ND     ND     ND     ND     ND
+07/01/2001  01:05:40            ND     ND     ND     ND     ND
+07/01/2001  01:20:40            ND     ND     ND     ND     ND
+07/01/2001  01:35:40            ND     ND     ND     ND     ND
+07/01/2001  01:50:40            ND     ND     ND     ND     ND
+07/01/2001  02:05:40            ND     ND     ND     ND     ND
+07/01/2001  02:20:40            ND     ND     ND     ND     ND
+07/01/2001  02:35:40            ND     ND     ND     ND     ND
+07/01/2001  02:50:40            ND     ND     ND     ND     ND
+07/01/2001  03:05:40            ND     ND     ND     ND     ND
+07/01/2001  03:20:40            ND     ND     ND     ND     ND
+07/01/2001  03:35:40            ND     ND     ND     ND     ND
+07/01/2001  03:50:40            ND     ND     ND     ND     ND
+07/01/2001  04:05:40            ND     ND     ND     ND     ND
+07/01/2001  04:20:40            ND     ND     ND     ND     ND
+07/01/2001  04:35:40            ND     ND     ND     ND     ND
+07/01/2001  04:50:40            ND     ND     ND     ND     ND
+07/01/2001  05:05:40            ND     ND     ND     ND     ND
+07/01/2001  05:20:40            ND     ND     ND     ND     ND
+07/01/2001  05:35:40            ND     ND     ND     ND     ND
+07/01/2001  05:50:40            ND     ND     ND     ND     ND
+07/01/2001  06:05:40            ND     ND     ND     ND     ND
+07/01/2001  06:20:40            ND     ND     ND     ND     ND
+07/01/2001  06:35:40            ND     ND     ND     ND     ND
+07/01/2001  06:50:40            ND     ND     ND     ND     ND
+07/01/2001  07:05:40            ND     ND     ND     ND     ND
+07/01/2001  07:20:40            ND     ND     ND     ND     ND
+07/01/2001  07:35:40            ND     ND     ND     ND     ND
+07/01/2001  07:50:40            ND     ND     ND     ND     ND
+07/01/2001  08:05:40            ND     ND     ND     ND     ND
+07/01/2001  08:20:40            ND     ND     ND     ND     ND
+07/01/2001  08:35:40            ND     ND     ND     ND     ND
+07/01/2001  08:50:40            ND     ND     ND     ND     ND
+07/01/2001  09:05:40            ND     ND     ND     ND     ND
+07/01/2001  09:20:40            ND     ND     ND     ND     ND
+07/01/2001  09:35:40            ND     ND     ND     ND     ND
+07/01/2001  09:50:40            ND     ND     ND     ND     ND
+07/01/2001  10:05:40            ND     ND     ND     ND     ND
+07/01/2001  10:20:40            ND     ND     ND     ND     ND
+07/01/2001  10:35:40            ND     ND     ND     ND     ND
+07/01/2001  10:50:40            ND     ND     ND     ND     ND
+07/01/2001  11:05:40            ND     ND     ND     ND     ND
+07/01/2001  11:20:40            ND     ND     ND     ND     ND
+07/01/2001  11:35:40            ND     ND     ND     ND     ND
+07/01/2001  11:50:40            ND     ND     ND     ND     ND
+07/01/2001  12:05:40            ND     ND     ND     ND     ND
+07/01/2001  12:20:40            ND     ND     ND     ND     ND
+07/01/2001  12:35:40            ND     ND     ND     ND     ND
+07/01/2001  12:50:40            ND     ND     ND     ND     ND
+07/01/2001  13:05:40            ND     ND     ND     ND     ND
+07/01/2001  13:20:40            ND     ND     ND     ND     ND
+07/01/2001  13:35:40            ND     ND     ND     ND     ND
+07/01/2001  13:50:40            ND     ND     ND     ND     ND
+07/01/2001  14:05:40            ND     ND     ND     ND     ND
+07/01/2001  14:20:40            ND     ND     ND     ND     ND
+07/01/2001  14:35:40            ND     ND     ND     ND     ND
+07/01/2001  14:50:40            ND     ND     ND     ND     ND
+07/01/2001  15:05:40            ND     ND     ND     ND     ND
+07/01/2001  15:20:40            ND     ND     ND     ND     ND
+07/01/2001  15:35:40            ND     ND     ND     ND     ND
+07/01/2001  15:50:40            ND     ND     ND     ND     ND
+07/01/2001  16:05:40            ND     ND     ND     ND     ND
+07/01/2001  16:20:40            ND     ND     ND     ND     ND
+07/01/2001  16:35:40            ND     ND     ND     ND     ND
+07/01/2001  16:50:40            ND     ND     ND     ND     ND
+07/01/2001  17:05:40            ND     ND     ND     ND     ND
+07/01/2001  17:20:40            ND     ND     ND     ND     ND
+07/01/2001  17:35:40            ND     ND     ND     ND     ND
+07/01/2001  17:50:40            ND     ND     ND     ND     ND
+07/01/2001  18:05:40            ND     ND     ND     ND     ND
+07/01/2001  18:20:40            ND     ND     ND     ND     ND
+07/01/2001  18:35:40            ND     ND     ND     ND     ND
+07/01/2001  18:50:40            ND     ND     ND     ND     ND
+07/01/2001  19:05:40            ND     ND     ND     ND     ND
+07/01/2001  19:20:40            ND     ND     ND     ND     ND
+07/01/2001  19:35:40            ND     ND     ND     ND     ND
+07/01/2001  19:50:40            ND     ND     ND     ND     ND
+07/01/2001  20:05:40            ND     ND     ND     ND     ND
+07/01/2001  20:20:40            ND     ND     ND     ND     ND
+07/01/2001  20:35:40            ND     ND     ND     ND     ND
+07/01/2001  20:50:40            ND     ND     ND     ND     ND
+07/01/2001  21:05:40            ND     ND     ND     ND     ND
+07/01/2001  21:20:40            ND     ND     ND     ND     ND
+07/01/2001  21:35:40            ND     ND     ND     ND     ND
+07/01/2001  21:50:40            ND     ND     ND     ND     ND
+07/01/2001  22:05:40            ND     ND     ND     ND     ND
+07/01/2001  22:20:40            ND     ND     ND     ND     ND
+07/01/2001  22:35:40            ND     ND     ND     ND     ND
+07/01/2001  22:50:40            ND     ND     ND     ND     ND
+07/01/2001  23:05:40            ND     ND     ND     ND     ND
+07/01/2001  23:20:40            ND     ND     ND     ND     ND
+07/01/2001  23:35:40            ND     ND     ND     ND     ND
+07/01/2001  23:50:40            ND     ND     ND     ND     ND
+08/01/2001  00:05:40            ND     ND     ND     ND     ND
+08/01/2001  00:20:40            ND     ND     ND     ND     ND
+08/01/2001  00:35:40            ND     ND     ND     ND     ND
+08/01/2001  00:50:40            ND     ND     ND     ND     ND
+08/01/2001  01:05:40            ND     ND     ND     ND     ND
+08/01/2001  01:20:40            ND     ND     ND     ND     ND
+08/01/2001  01:35:40            ND     ND     ND     ND     ND
+08/01/2001  01:50:40            ND     ND     ND     ND     ND
+08/01/2001  02:05:40            ND     ND     ND     ND     ND
+08/01/2001  02:20:40            ND     ND     ND     ND     ND
+08/01/2001  02:35:40            ND     ND     ND     ND     ND
+08/01/2001  02:50:40            ND     ND     ND     ND     ND
+08/01/2001  03:05:40            ND     ND     ND     ND     ND
+08/01/2001  03:20:40            ND     ND     ND     ND     ND
+08/01/2001  03:35:40            ND     ND     ND     ND     ND
+08/01/2001  03:50:40            ND     ND     ND     ND     ND
+08/01/2001  04:05:40            ND     ND     ND     ND     ND
+08/01/2001  04:20:40            ND     ND     ND     ND     ND
+08/01/2001  04:35:40            ND     ND     ND     ND     ND
+08/01/2001  04:50:40            ND     ND     ND     ND     ND
+08/01/2001  05:05:40            ND     ND     ND     ND     ND
+08/01/2001  05:20:40            ND     ND     ND     ND     ND
+08/01/2001  05:35:40            ND     ND     ND     ND     ND
+08/01/2001  05:50:40            ND     ND     ND     ND     ND
+08/01/2001  06:05:40            ND     ND     ND     ND     ND
+08/01/2001  06:20:40            ND     ND     ND     ND     ND
+08/01/2001  06:35:40            ND     ND     ND     ND     ND
+08/01/2001  06:50:40            ND     ND     ND     ND     ND
+08/01/2001  07:05:40            ND     ND     ND     ND     ND
+08/01/2001  07:20:40            ND     ND     ND     ND     ND
+08/01/2001  07:35:40            ND     ND     ND     ND     ND
+08/01/2001  07:50:40            ND     ND     ND     ND     ND
+08/01/2001  08:05:40            ND     ND     ND     ND     ND
+08/01/2001  08:20:40            ND     ND     ND     ND     ND
+08/01/2001  08:35:40            ND     ND     ND     ND     ND
+08/01/2001  08:50:40            ND     ND     ND     ND     ND
+08/01/2001  09:05:40            ND     ND     ND     ND     ND
+08/01/2001  09:20:40            ND     ND     ND     ND     ND
+08/01/2001  09:35:40            ND     ND     ND     ND     ND
+08/01/2001  09:50:40            ND     ND     ND     ND     ND
+08/01/2001  10:05:40            ND     ND     ND     ND     ND
+08/01/2001  10:20:40            ND     ND     ND     ND     ND
+08/01/2001  10:35:40            ND     ND     ND     ND     ND
+08/01/2001  10:50:40            ND     ND     ND     ND     ND
+08/01/2001  11:05:40            ND     ND     ND     ND     ND
+08/01/2001  11:20:40            ND     ND     ND     ND     ND
+08/01/2001  11:35:40            ND     ND     ND     ND     ND
+08/01/2001  11:50:40            ND     ND     ND     ND     ND
+08/01/2001  12:05:40            ND     ND     ND     ND     ND
+08/01/2001  12:20:40            ND     ND     ND     ND     ND
+08/01/2001  12:35:40            ND     ND     ND     ND     ND
+08/01/2001  12:50:40            ND     ND     ND     ND     ND
+08/01/2001  13:05:40            ND     ND     ND     ND     ND
+08/01/2001  13:20:40            ND     ND     ND     ND     ND
+08/01/2001  13:35:40            ND     ND     ND     ND     ND
+08/01/2001  13:50:40            ND     ND     ND     ND     ND
+08/01/2001  14:05:40            ND     ND     ND     ND     ND
+08/01/2001  14:20:40            ND     ND     ND     ND     ND
+08/01/2001  14:35:40            ND     ND     ND     ND     ND
+08/01/2001  14:50:40            ND     ND     ND     ND     ND
+08/01/2001  15:05:40            ND     ND     ND     ND     ND
+08/01/2001  15:20:40            ND     ND     ND     ND     ND
+08/01/2001  15:35:40            ND     ND     ND     ND     ND
+08/01/2001  15:50:40            ND     ND     ND     ND     ND
+08/01/2001  16:05:40            ND     ND     ND     ND     ND
+08/01/2001  16:20:40            ND     ND     ND     ND     ND
+08/01/2001  16:35:40            ND     ND     ND     ND     ND
+08/01/2001  16:50:40            ND     ND     ND     ND     ND
+08/01/2001  17:05:40            ND     ND     ND     ND     ND
+08/01/2001  17:20:40            ND     ND     ND     ND     ND
+08/01/2001  17:35:40            ND     ND     ND     ND     ND
+08/01/2001  17:50:40            ND     ND     ND     ND     ND
+08/01/2001  18:05:40            ND     ND     ND     ND     ND
+08/01/2001  18:20:40            ND     ND     ND     ND     ND
+08/01/2001  18:35:40            ND     ND     ND     ND     ND
+08/01/2001  18:50:40            ND     ND     ND     ND     ND
+08/01/2001  19:05:40            ND     ND     ND     ND     ND
+08/01/2001  19:20:40            ND     ND     ND     ND     ND
+08/01/2001  19:35:40            ND     ND     ND     ND     ND
+08/01/2001  19:50:40            ND     ND     ND     ND     ND
+08/01/2001  20:05:40            ND     ND     ND     ND     ND
+08/01/2001  20:20:40            ND     ND     ND     ND     ND
+08/01/2001  20:35:40            ND     ND     ND     ND     ND
+08/01/2001  20:50:40            ND     ND     ND     ND     ND
+08/01/2001  21:05:40            ND     ND     ND     ND     ND
+08/01/2001  21:20:40            ND     ND     ND     ND     ND
+08/01/2001  21:35:40            ND     ND     ND     ND     ND
+08/01/2001  21:50:40            ND     ND     ND     ND     ND
+08/01/2001  22:05:40            ND     ND     ND     ND     ND
+08/01/2001  22:20:40            ND     ND     ND     ND     ND
+08/01/2001  22:35:40            ND     ND     ND     ND     ND
+08/01/2001  22:50:40            ND     ND     ND     ND     ND
+08/01/2001  23:05:40            ND     ND     ND     ND     ND
+08/01/2001  23:20:40            ND     ND     ND     ND     ND
+08/01/2001  23:35:40            ND     ND     ND     ND     ND
+08/01/2001  23:50:40            ND     ND     ND     ND     ND
+09/01/2001  00:05:40            ND     ND     ND     ND     ND
+09/01/2001  00:20:40            ND     ND     ND     ND     ND
+09/01/2001  00:35:40            ND     ND     ND     ND     ND
+09/01/2001  00:50:40            ND     ND     ND     ND     ND
+09/01/2001  01:05:40            ND     ND     ND     ND     ND
+09/01/2001  01:20:40            ND     ND     ND     ND     ND
+09/01/2001  01:35:40            ND     ND     ND     ND     ND
+09/01/2001  01:50:40            ND     ND     ND     ND     ND
+09/01/2001  02:05:40            ND     ND     ND     ND     ND
+09/01/2001  02:20:40            ND     ND     ND     ND     ND
+09/01/2001  02:35:40            ND     ND     ND     ND     ND
+09/01/2001  02:50:40            ND     ND     ND     ND     ND
+09/01/2001  03:05:40            ND     ND     ND     ND     ND
+09/01/2001  03:20:40            ND     ND     ND     ND     ND
+09/01/2001  03:35:40            ND     ND     ND     ND     ND
+09/01/2001  03:50:40            ND     ND     ND     ND     ND
+09/01/2001  04:05:40            ND     ND     ND     ND     ND
+09/01/2001  04:20:40            ND     ND     ND     ND     ND
+09/01/2001  04:35:40            ND     ND     ND     ND     ND
+09/01/2001  04:50:40            ND     ND     ND     ND     ND
+09/01/2001  05:05:40            ND     ND     ND     ND     ND
+09/01/2001  05:20:40            ND     ND     ND     ND     ND
+09/01/2001  05:35:40            ND     ND     ND     ND     ND
+09/01/2001  05:50:40            ND     ND     ND     ND     ND
+09/01/2001  06:05:40            ND     ND     ND     ND     ND
+09/01/2001  06:20:40            ND     ND     ND     ND     ND
+09/01/2001  06:35:40            ND     ND     ND     ND     ND
+09/01/2001  06:50:40            ND     ND     ND     ND     ND
+09/01/2001  07:05:40            ND     ND     ND     ND     ND
+09/01/2001  07:20:40            ND     ND     ND     ND     ND
+09/01/2001  07:35:40            ND     ND     ND     ND     ND
+09/01/2001  07:50:40            ND     ND     ND     ND     ND
+09/01/2001  08:05:40            ND     ND     ND     ND     ND
+09/01/2001  08:20:40            ND     ND     ND     ND     ND
+09/01/2001  08:35:40            ND     ND     ND     ND     ND
+09/01/2001  08:50:40            ND     ND     ND     ND     ND
+09/01/2001  09:05:40            ND     ND     ND     ND     ND
+09/01/2001  09:20:40            ND     ND     ND     ND     ND
+09/01/2001  09:35:40            ND     ND     ND     ND     ND
+09/01/2001  09:50:40            ND     ND     ND     ND     ND
+09/01/2001  10:05:40            ND     ND     ND     ND     ND
+09/01/2001  10:20:40            ND     ND     ND     ND     ND
+09/01/2001  10:35:40            ND     ND     ND     ND     ND
+09/01/2001  10:50:40            ND     ND     ND     ND     ND
+09/01/2001  11:05:40            ND     ND     ND     ND     ND
+09/01/2001  11:20:40            ND     ND     ND     ND     ND
+09/01/2001  11:35:40            ND     ND     ND     ND     ND
+09/01/2001  11:50:40            ND     ND     ND     ND     ND
+09/01/2001  12:05:40            ND     ND     ND     ND     ND
+09/01/2001  12:20:40            ND     ND     ND     ND     ND
+09/01/2001  12:35:40            ND     ND     ND     ND     ND
+09/01/2001  12:50:40            ND     ND     ND     ND     ND
+09/01/2001  13:05:40            ND     ND     ND     ND     ND
+09/01/2001  13:20:40            ND     ND     ND     ND     ND
+09/01/2001  13:35:40            ND     ND     ND     ND     ND
+09/01/2001  13:50:40            ND     ND     ND     ND     ND
+09/01/2001  14:05:40            ND     ND     ND     ND     ND
+09/01/2001  14:20:40            ND     ND     ND     ND     ND
+09/01/2001  14:35:40            ND     ND     ND     ND     ND
+09/01/2001  14:50:40            ND     ND     ND     ND     ND
+09/01/2001  15:05:40            ND     ND     ND     ND     ND
+09/01/2001  15:20:40            ND     ND     ND     ND     ND
+09/01/2001  15:35:40            ND     ND     ND     ND     ND
+09/01/2001  15:50:40            ND     ND     ND     ND     ND
+09/01/2001  16:05:40            ND     ND     ND     ND     ND
+09/01/2001  16:20:40            ND     ND     ND     ND     ND
+09/01/2001  16:35:40            ND     ND     ND     ND     ND
+09/01/2001  16:50:40            ND     ND     ND     ND     ND
+09/01/2001  17:05:40            ND     ND     ND     ND     ND
+09/01/2001  17:20:40            ND     ND     ND     ND     ND
+09/01/2001  17:35:40            ND     ND     ND     ND     ND
+09/01/2001  17:50:40            ND     ND     ND     ND     ND
+09/01/2001  18:05:40            ND     ND     ND     ND     ND
+09/01/2001  18:20:40            ND     ND     ND     ND     ND
+09/01/2001  18:35:40            ND     ND     ND     ND     ND
+09/01/2001  18:50:40            ND     ND     ND     ND     ND
+09/01/2001  19:05:40            ND     ND     ND     ND     ND
+09/01/2001  19:20:40            ND     ND     ND     ND     ND
+09/01/2001  19:35:40            ND     ND     ND     ND     ND
+09/01/2001  19:50:40            ND     ND     ND     ND     ND
+09/01/2001  20:05:40            ND     ND     ND     ND     ND
+09/01/2001  20:20:40            ND     ND     ND     ND     ND
+09/01/2001  20:35:40            ND     ND     ND     ND     ND
+09/01/2001  20:50:40            ND     ND     ND     ND     ND
+09/01/2001  21:05:40            ND     ND     ND     ND     ND
+09/01/2001  21:20:40            ND     ND     ND     ND     ND
+09/01/2001  21:35:40            ND     ND     ND     ND     ND
+09/01/2001  21:50:40            ND     ND     ND     ND     ND
+09/01/2001  22:05:40            ND     ND     ND     ND     ND
+09/01/2001  22:20:40            ND     ND     ND     ND     ND
+09/01/2001  22:35:40            ND     ND     ND     ND     ND
+09/01/2001  22:50:40            ND     ND     ND     ND     ND
+09/01/2001  23:05:40            ND     ND     ND     ND     ND
+09/01/2001  23:20:40            ND     ND     ND     ND     ND
+09/01/2001  23:35:40            ND     ND     ND     ND     ND
+09/01/2001  23:50:40            ND     ND     ND     ND     ND
+10/01/2001  00:05:40            ND     ND     ND     ND     ND
+10/01/2001  00:20:40            ND     ND     ND     ND     ND
+10/01/2001  00:35:40            ND     ND     ND     ND     ND
+10/01/2001  00:50:40            ND     ND     ND     ND     ND
+10/01/2001  01:05:40            ND     ND     ND     ND     ND
+10/01/2001  01:20:40            ND     ND     ND     ND     ND
+10/01/2001  01:35:40            ND     ND     ND     ND     ND
+10/01/2001  01:50:40            ND     ND     ND     ND     ND
+10/01/2001  02:05:40            ND     ND     ND     ND     ND
+10/01/2001  02:20:40            ND     ND     ND     ND     ND
+10/01/2001  02:35:40            ND     ND     ND     ND     ND
+10/01/2001  02:50:40            ND     ND     ND     ND     ND
+10/01/2001  03:05:40            ND     ND     ND     ND     ND
+10/01/2001  03:20:40            ND     ND     ND     ND     ND
+10/01/2001  03:35:40            ND     ND     ND     ND     ND
+10/01/2001  03:50:40            ND     ND     ND     ND     ND
+10/01/2001  04:05:40            ND     ND     ND     ND     ND
+10/01/2001  04:20:40            ND     ND     ND     ND     ND
+10/01/2001  04:35:40            ND     ND     ND     ND     ND
+10/01/2001  04:50:40            ND     ND     ND     ND     ND
+10/01/2001  05:05:40            ND     ND     ND     ND     ND
+10/01/2001  05:20:40            ND     ND     ND     ND     ND
+10/01/2001  05:35:40            ND     ND     ND     ND     ND
+10/01/2001  05:50:40            ND     ND     ND     ND     ND
+10/01/2001  06:05:40            ND     ND     ND     ND     ND
+10/01/2001  06:20:40            ND     ND     ND     ND     ND
+10/01/2001  06:35:40            ND     ND     ND     ND     ND
+10/01/2001  06:50:40            ND     ND     ND     ND     ND
+10/01/2001  07:05:40            ND     ND     ND     ND     ND
+10/01/2001  07:20:40            ND     ND     ND     ND     ND
+10/01/2001  07:35:40            ND     ND     ND     ND     ND
+10/01/2001  07:50:40            ND     ND     ND     ND     ND
+10/01/2001  08:05:40            ND     ND     ND     ND     ND
+10/01/2001  08:20:40            ND     ND     ND     ND     ND
+10/01/2001  08:35:40            ND     ND     ND     ND     ND
+10/01/2001  08:50:40            ND     ND     ND     ND     ND
+10/01/2001  09:05:40            ND     ND     ND     ND     ND
+10/01/2001  09:20:40            ND     ND     ND     ND     ND
+10/01/2001  09:35:40            ND     ND     ND     ND     ND
+10/01/2001  09:50:40            ND     ND     ND     ND     ND
+10/01/2001  10:05:40            ND     ND     ND     ND     ND
+10/01/2001  10:20:40            ND     ND     ND     ND     ND
+10/01/2001  10:35:40            ND     ND     ND     ND     ND
+10/01/2001  10:50:40            ND     ND     ND     ND     ND
+10/01/2001  11:05:40            ND     ND     ND     ND     ND
+10/01/2001  11:20:40            ND     ND     ND     ND     ND
+10/01/2001  11:35:40            ND     ND     ND     ND     ND
+10/01/2001  11:50:40            ND     ND     ND     ND     ND
+10/01/2001  12:05:40            ND     ND     ND     ND     ND
+10/01/2001  12:20:40            ND     ND     ND     ND     ND
+10/01/2001  12:35:40            ND     ND     ND     ND     ND
+10/01/2001  12:50:40            ND     ND     ND     ND     ND
+10/01/2001  13:05:40            ND     ND     ND     ND     ND
+10/01/2001  13:20:40            ND     ND     ND     ND     ND
+10/01/2001  13:35:40            ND     ND     ND     ND     ND
+10/01/2001  13:50:40            ND     ND     ND     ND     ND
+10/01/2001  14:05:40            ND     ND     ND     ND     ND
+10/01/2001  14:20:40            ND     ND     ND     ND     ND
+10/01/2001  14:35:40            ND     ND     ND     ND     ND
+10/01/2001  14:50:40            ND     ND     ND     ND     ND
+10/01/2001  15:05:40            ND     ND     ND     ND     ND
+10/01/2001  15:20:40            ND     ND     ND     ND     ND
+10/01/2001  15:35:40            ND     ND     ND     ND     ND
+10/01/2001  15:50:40            ND     ND     ND     ND     ND
+10/01/2001  16:05:40            ND     ND     ND     ND     ND
+10/01/2001  16:20:40            ND     ND     ND     ND     ND
+10/01/2001  16:35:40            ND     ND     ND     ND     ND
+10/01/2001  16:50:40            ND     ND     ND     ND     ND
+10/01/2001  17:05:40            ND     ND     ND     ND     ND
+10/01/2001  17:20:40            ND     ND     ND     ND     ND
+10/01/2001  17:35:40            ND     ND     ND     ND     ND
+10/01/2001  17:50:40            ND     ND     ND     ND     ND
+10/01/2001  18:05:40            ND     ND     ND     ND     ND
+10/01/2001  18:20:40            ND     ND     ND     ND     ND
+10/01/2001  18:35:40            ND     ND     ND     ND     ND
+10/01/2001  18:50:40            ND     ND     ND     ND     ND
+10/01/2001  19:05:40            ND     ND     ND     ND     ND
+10/01/2001  19:20:40            ND     ND     ND     ND     ND
+10/01/2001  19:35:40            ND     ND     ND     ND     ND
+10/01/2001  19:50:40            ND     ND     ND     ND     ND
+10/01/2001  20:05:40            ND     ND     ND     ND     ND
+10/01/2001  20:20:40            ND     ND     ND     ND     ND
+10/01/2001  20:35:40            ND     ND     ND     ND     ND
+10/01/2001  20:50:40            ND     ND     ND     ND     ND
+10/01/2001  21:05:40            ND     ND     ND     ND     ND
+10/01/2001  21:20:40            ND     ND     ND     ND     ND
+10/01/2001  21:35:40            ND     ND     ND     ND     ND
+10/01/2001  21:50:40            ND     ND     ND     ND     ND
+10/01/2001  22:05:40            ND     ND     ND     ND     ND
+10/01/2001  22:20:40            ND     ND     ND     ND     ND
+10/01/2001  22:35:40            ND     ND     ND     ND     ND
+10/01/2001  22:50:40            ND     ND     ND     ND     ND
+10/01/2001  23:05:40            ND     ND     ND     ND     ND
+10/01/2001  23:20:40            ND     ND     ND     ND     ND
+10/01/2001  23:35:40            ND     ND     ND     ND     ND
+10/01/2001  23:50:40            ND     ND     ND     ND     ND
+11/01/2001  00:05:40            ND     ND     ND     ND     ND
+11/01/2001  00:20:40            ND     ND     ND     ND     ND
+11/01/2001  00:35:40            ND     ND     ND     ND     ND
+11/01/2001  00:50:40            ND     ND     ND     ND     ND
+11/01/2001  01:05:40            ND     ND     ND     ND     ND
+11/01/2001  01:20:40            ND     ND     ND     ND     ND
+11/01/2001  01:35:40            ND     ND     ND     ND     ND
+11/01/2001  01:50:40            ND     ND     ND     ND     ND
+11/01/2001  02:05:40            ND     ND     ND     ND     ND
+11/01/2001  02:20:40            ND     ND     ND     ND     ND
+11/01/2001  02:35:40            ND     ND     ND     ND     ND
+11/01/2001  02:50:40            ND     ND     ND     ND     ND
+11/01/2001  03:05:40            ND     ND     ND     ND     ND
+11/01/2001  03:20:40            ND     ND     ND     ND     ND
+11/01/2001  03:35:40            ND     ND     ND     ND     ND
+11/01/2001  03:50:40            ND     ND     ND     ND     ND
+11/01/2001  04:05:40            ND     ND     ND     ND     ND
+11/01/2001  04:20:40            ND     ND     ND     ND     ND
+11/01/2001  04:35:40            ND     ND     ND     ND     ND
+11/01/2001  04:50:40            ND     ND     ND     ND     ND
+11/01/2001  05:05:40            ND     ND     ND     ND     ND
+11/01/2001  05:20:40            ND     ND     ND     ND     ND
+11/01/2001  05:35:40            ND     ND     ND     ND     ND
+11/01/2001  05:50:40            ND     ND     ND     ND     ND
+11/01/2001  06:05:40            ND     ND     ND     ND     ND
+11/01/2001  06:20:40            ND     ND     ND     ND     ND
+11/01/2001  06:35:40            ND     ND     ND     ND     ND
+11/01/2001  06:50:40            ND     ND     ND     ND     ND
+11/01/2001  07:05:40            ND     ND     ND     ND     ND
+11/01/2001  07:20:40            ND     ND     ND     ND     ND
+11/01/2001  07:35:40            ND     ND     ND     ND     ND
+11/01/2001  07:50:40            ND     ND     ND     ND     ND
+11/01/2001  08:05:40            ND     ND     ND     ND     ND
+11/01/2001  08:20:40            ND     ND     ND     ND     ND
+11/01/2001  08:35:40            ND     ND     ND     ND     ND
+11/01/2001  08:50:40            ND     ND     ND     ND     ND
+11/01/2001  09:05:40            ND     ND     ND     ND     ND
+11/01/2001  09:20:40            ND     ND     ND     ND     ND
+11/01/2001  09:35:40            ND     ND     ND     ND     ND
+11/01/2001  09:50:40            ND     ND     ND     ND     ND
+11/01/2001  10:05:40            ND     ND     ND     ND     ND
+11/01/2001  10:20:40            ND     ND     ND     ND     ND
+11/01/2001  10:35:40            ND     ND     ND     ND     ND
+11/01/2001  10:50:40            ND     ND     ND     ND     ND
+11/01/2001  11:05:40            ND     ND     ND     ND     ND
+11/01/2001  11:20:40            ND     ND     ND     ND     ND
+11/01/2001  11:35:40            ND     ND     ND     ND     ND
+11/01/2001  11:50:40            ND     ND     ND     ND     ND
+11/01/2001  12:05:40            ND     ND     ND     ND     ND
+11/01/2001  12:20:40            ND     ND     ND     ND     ND
+11/01/2001  12:35:40            ND     ND     ND     ND     ND
+11/01/2001  12:50:40            ND     ND     ND     ND     ND
+11/01/2001  13:05:40            ND     ND     ND     ND     ND
+11/01/2001  13:20:40            ND     ND     ND     ND     ND
+11/01/2001  13:35:40            ND     ND     ND     ND     ND
+11/01/2001  13:50:40            ND     ND     ND     ND     ND
+11/01/2001  14:05:40            ND     ND     ND     ND     ND
+11/01/2001  14:20:40            ND     ND     ND     ND     ND
+11/01/2001  14:35:40            ND     ND     ND     ND     ND
+11/01/2001  14:50:40            ND     ND     ND     ND     ND
+11/01/2001  15:05:40            ND     ND     ND     ND     ND
+11/01/2001  15:20:40            ND     ND     ND     ND     ND
+11/01/2001  15:35:40            ND     ND     ND     ND     ND
+11/01/2001  15:50:40            ND     ND     ND     ND     ND
+11/01/2001  16:05:40            ND     ND     ND     ND     ND
+11/01/2001  16:20:40            ND     ND     ND     ND     ND
+11/01/2001  16:35:40            ND     ND     ND     ND     ND
+11/01/2001  16:50:40            ND     ND     ND     ND     ND
+11/01/2001  17:05:40            ND     ND     ND     ND     ND
+11/01/2001  17:20:40            ND     ND     ND     ND     ND
+11/01/2001  17:35:40            ND     ND     ND     ND     ND
+11/01/2001  17:50:40            ND     ND     ND     ND     ND
+11/01/2001  18:05:40            ND     ND     ND     ND     ND
+11/01/2001  18:20:40            ND     ND     ND     ND     ND
+11/01/2001  18:35:40            ND     ND     ND     ND     ND
+11/01/2001  18:50:40            ND     ND     ND     ND     ND
+11/01/2001  19:05:40            ND     ND     ND     ND     ND
+11/01/2001  19:20:40            ND     ND     ND     ND     ND
+11/01/2001  19:35:40            ND     ND     ND     ND     ND
+11/01/2001  19:50:40            ND     ND     ND     ND     ND
+11/01/2001  20:05:40            ND     ND     ND     ND     ND
+11/01/2001  20:20:40            ND     ND     ND     ND     ND
+11/01/2001  20:35:40            ND     ND     ND     ND     ND
+11/01/2001  20:50:40            ND     ND     ND     ND     ND
+11/01/2001  21:05:40            ND     ND     ND     ND     ND
+11/01/2001  21:20:40            ND     ND     ND     ND     ND
+11/01/2001  21:35:40            ND     ND     ND     ND     ND
+11/01/2001  21:50:40            ND     ND     ND     ND     ND
+11/01/2001  22:05:40            ND     ND     ND     ND     ND
+11/01/2001  22:20:40            ND     ND     ND     ND     ND
+11/01/2001  22:35:40            ND     ND     ND     ND     ND
+11/01/2001  22:50:40            ND     ND     ND     ND     ND
+11/01/2001  23:05:40            ND     ND     ND     ND     ND
+11/01/2001  23:20:40            ND     ND     ND     ND     ND
+11/01/2001  23:35:40            ND     ND     ND     ND     ND
+11/01/2001  23:50:40            ND     ND     ND     ND     ND
+12/01/2001  00:05:40            ND     ND     ND     ND     ND
+12/01/2001  00:20:40            ND     ND     ND     ND     ND
+12/01/2001  00:35:40            ND     ND     ND     ND     ND
+12/01/2001  00:50:40            ND     ND     ND     ND     ND
+12/01/2001  01:05:40            ND     ND     ND     ND     ND
+12/01/2001  01:20:40            ND     ND     ND     ND     ND
+12/01/2001  01:35:40            ND     ND     ND     ND     ND
+12/01/2001  01:50:40            ND     ND     ND     ND     ND
+12/01/2001  02:05:40            ND     ND     ND     ND     ND
+12/01/2001  02:20:40            ND     ND     ND     ND     ND
+12/01/2001  02:35:40            ND     ND     ND     ND     ND
+12/01/2001  02:50:40            ND     ND     ND     ND     ND
+12/01/2001  03:05:40            ND     ND     ND     ND     ND
+12/01/2001  03:20:40            ND     ND     ND     ND     ND
+12/01/2001  03:35:40            ND     ND     ND     ND     ND
+12/01/2001  03:50:40            ND     ND     ND     ND     ND
+12/01/2001  04:05:40            ND     ND     ND     ND     ND
+12/01/2001  04:20:40            ND     ND     ND     ND     ND
+12/01/2001  04:35:40            ND     ND     ND     ND     ND
+12/01/2001  04:50:40            ND     ND     ND     ND     ND
+12/01/2001  05:05:40            ND     ND     ND     ND     ND
+12/01/2001  05:20:40            ND     ND     ND     ND     ND
+12/01/2001  05:35:40            ND     ND     ND     ND     ND
+12/01/2001  05:50:40            ND     ND     ND     ND     ND
+12/01/2001  06:05:40            ND     ND     ND     ND     ND
+12/01/2001  06:20:40            ND     ND     ND     ND     ND
+12/01/2001  06:35:40            ND     ND     ND     ND     ND
+12/01/2001  06:50:40            ND     ND     ND     ND     ND
+12/01/2001  07:05:40            ND     ND     ND     ND     ND
+12/01/2001  07:20:40            ND     ND     ND     ND     ND
+12/01/2001  07:35:40            ND     ND     ND     ND     ND
+12/01/2001  07:50:40            ND     ND     ND     ND     ND
+12/01/2001  08:05:40            ND     ND     ND     ND     ND
+12/01/2001  08:20:40            ND     ND     ND     ND     ND
+12/01/2001  08:35:40            ND     ND     ND     ND     ND
+12/01/2001  08:50:40            ND     ND     ND     ND     ND
+12/01/2001  09:05:40            ND     ND     ND     ND     ND
+12/01/2001  09:20:40            ND     ND     ND     ND     ND
+12/01/2001  09:35:40            ND     ND     ND     ND     ND
+12/01/2001  09:50:40            ND     ND     ND     ND     ND
+12/01/2001  10:05:40            ND     ND     ND     ND     ND
+12/01/2001  10:20:40            ND     ND     ND     ND     ND
+12/01/2001  10:35:40            ND     ND     ND     ND     ND
+12/01/2001  10:50:40            ND     ND     ND     ND     ND
+12/01/2001  11:05:40            ND     ND     ND     ND     ND
+12/01/2001  11:20:40            ND     ND     ND     ND     ND
+12/01/2001  11:35:40            ND     ND     ND     ND     ND
+12/01/2001  11:50:40            ND     ND     ND     ND     ND
+12/01/2001  12:05:40            ND     ND     ND     ND     ND
+12/01/2001  12:20:40            ND     ND     ND     ND     ND
+12/01/2001  12:35:40            ND     ND     ND     ND     ND
+12/01/2001  12:50:40            ND     ND     ND     ND     ND
+12/01/2001  13:05:40            ND     ND     ND     ND     ND
+12/01/2001  13:20:40            ND     ND     ND     ND     ND
+12/01/2001  13:35:40            ND     ND     ND     ND     ND
+12/01/2001  13:50:40            ND     ND     ND     ND     ND
+12/01/2001  14:05:40            ND     ND     ND     ND     ND
+12/01/2001  14:20:40            ND     ND     ND     ND     ND
+12/01/2001  14:35:40            ND     ND     ND     ND     ND
+12/01/2001  14:50:40            ND     ND     ND     ND     ND
+12/01/2001  15:05:40            ND     ND     ND     ND     ND
+12/01/2001  15:20:40            ND     ND     ND     ND     ND
+12/01/2001  15:35:40            ND     ND     ND     ND     ND
+12/01/2001  15:50:40            ND     ND     ND     ND     ND
+12/01/2001  16:05:40            ND     ND     ND     ND     ND
+12/01/2001  16:20:40            ND     ND     ND     ND     ND
+12/01/2001  16:35:40            ND     ND     ND     ND     ND
+12/01/2001  16:50:40            ND     ND     ND     ND     ND
+12/01/2001  17:05:40            ND     ND     ND     ND     ND
+12/01/2001  17:20:40            ND     ND     ND     ND     ND
+12/01/2001  17:35:40            ND     ND     ND     ND     ND
+12/01/2001  17:50:40            ND     ND     ND     ND     ND
+12/01/2001  18:05:40            ND     ND     ND     ND     ND
+12/01/2001  18:20:40            ND     ND     ND     ND     ND
+12/01/2001  18:35:40            ND     ND     ND     ND     ND
+12/01/2001  18:50:40            ND     ND     ND     ND     ND
+12/01/2001  19:05:40            ND     ND     ND     ND     ND
+12/01/2001  19:20:40            ND     ND     ND     ND     ND
+12/01/2001  19:35:40            ND     ND     ND     ND     ND
+12/01/2001  19:50:40            ND     ND     ND     ND     ND
+12/01/2001  20:05:40            ND     ND     ND     ND     ND
+12/01/2001  20:20:40            ND     ND     ND     ND     ND
+12/01/2001  20:35:40            ND     ND     ND     ND     ND
+12/01/2001  20:50:40            ND     ND     ND     ND     ND
+12/01/2001  21:05:40            ND     ND     ND     ND     ND
+12/01/2001  21:20:40            ND     ND     ND     ND     ND
+12/01/2001  21:35:40            ND     ND     ND     ND     ND
+12/01/2001  21:50:40            ND     ND     ND     ND     ND
+12/01/2001  22:05:40            ND     ND     ND     ND     ND
+12/01/2001  22:20:40            ND     ND     ND     ND     ND
+12/01/2001  22:35:40            ND     ND     ND     ND     ND
+12/01/2001  22:50:40            ND     ND     ND     ND     ND
+12/01/2001  23:05:40            ND     ND     ND     ND     ND
+12/01/2001  23:20:40            ND     ND     ND     ND     ND
+12/01/2001  23:35:40            ND     ND     ND     ND     ND
+12/01/2001  23:50:40            ND     ND     ND     ND     ND
+13/01/2001  00:05:40            ND     ND     ND     ND     ND
+13/01/2001  00:20:40            ND     ND     ND     ND     ND
+13/01/2001  00:35:40            ND     ND     ND     ND     ND
+13/01/2001  00:50:40            ND     ND     ND     ND     ND
+13/01/2001  01:05:40            ND     ND     ND     ND     ND
+13/01/2001  01:20:40            ND     ND     ND     ND     ND
+13/01/2001  01:35:40            ND     ND     ND     ND     ND
+13/01/2001  01:50:40            ND     ND     ND     ND     ND
+13/01/2001  02:05:40            ND     ND     ND     ND     ND
+13/01/2001  02:20:40            ND     ND     ND     ND     ND
+13/01/2001  02:35:40            ND     ND     ND     ND     ND
+13/01/2001  02:50:40            ND     ND     ND     ND     ND
+13/01/2001  03:05:40            ND     ND     ND     ND     ND
+13/01/2001  03:20:40            ND     ND     ND     ND     ND
+13/01/2001  03:35:40            ND     ND     ND     ND     ND
+13/01/2001  03:50:40            ND     ND     ND     ND     ND
+13/01/2001  04:05:40            ND     ND     ND     ND     ND
+13/01/2001  04:20:40            ND     ND     ND     ND     ND
+13/01/2001  04:35:40            ND     ND     ND     ND     ND
+13/01/2001  04:50:40            ND     ND     ND     ND     ND
+13/01/2001  05:05:40            ND     ND     ND     ND     ND
+13/01/2001  05:20:40            ND     ND     ND     ND     ND
+13/01/2001  05:35:40            ND     ND     ND     ND     ND
+13/01/2001  05:50:40            ND     ND     ND     ND     ND
+13/01/2001  06:05:40            ND     ND     ND     ND     ND
+13/01/2001  06:20:40            ND     ND     ND     ND     ND
+13/01/2001  06:35:40            ND     ND     ND     ND     ND
+13/01/2001  06:50:40            ND     ND     ND     ND     ND
+13/01/2001  07:05:40            ND     ND     ND     ND     ND
+13/01/2001  07:20:40            ND     ND     ND     ND     ND
+13/01/2001  07:35:40            ND     ND     ND     ND     ND
+13/01/2001  07:50:40            ND     ND     ND     ND     ND
+13/01/2001  08:05:40            ND     ND     ND     ND     ND
+13/01/2001  08:20:40            ND     ND     ND     ND     ND
+13/01/2001  08:35:40            ND     ND     ND     ND     ND
+13/01/2001  08:50:40            ND     ND     ND     ND     ND
+13/01/2001  09:05:40            ND     ND     ND     ND     ND
+13/01/2001  09:20:40            ND     ND     ND     ND     ND
+13/01/2001  09:35:40            ND     ND     ND     ND     ND
+13/01/2001  09:50:40            ND     ND     ND     ND     ND
+13/01/2001  10:05:40            ND     ND     ND     ND     ND
+13/01/2001  10:20:40            ND     ND     ND     ND     ND
+13/01/2001  10:35:40            ND     ND     ND     ND     ND
+13/01/2001  10:50:40            ND     ND     ND     ND     ND
+13/01/2001  11:05:40            ND     ND     ND     ND     ND
+13/01/2001  11:20:40            ND     ND     ND     ND     ND
+13/01/2001  11:35:40            ND     ND     ND     ND     ND
+13/01/2001  11:50:40            ND     ND     ND     ND     ND
+13/01/2001  12:05:40            ND     ND     ND     ND     ND
+13/01/2001  12:20:40            ND     ND     ND     ND     ND
+13/01/2001  12:35:40            ND     ND     ND     ND     ND
+13/01/2001  12:50:40            ND     ND     ND     ND     ND
+13/01/2001  13:05:40            ND     ND     ND     ND     ND
+13/01/2001  13:20:40            ND     ND     ND     ND     ND
+13/01/2001  13:35:40            ND     ND     ND     ND     ND
+13/01/2001  13:50:40            ND     ND     ND     ND     ND
+13/01/2001  14:05:40            ND     ND     ND     ND     ND
+13/01/2001  14:20:40            ND     ND     ND     ND     ND
+13/01/2001  14:35:40            ND     ND     ND     ND     ND
+13/01/2001  14:50:40            ND     ND     ND     ND     ND
+13/01/2001  15:05:40            ND     ND     ND     ND     ND
+13/01/2001  15:20:40            ND     ND     ND     ND     ND
+13/01/2001  15:35:40            ND     ND     ND     ND     ND
+13/01/2001  15:50:40            ND     ND     ND     ND     ND
+13/01/2001  16:05:40            ND     ND     ND     ND     ND
+13/01/2001  16:20:40            ND     ND     ND     ND     ND
+13/01/2001  16:35:40            ND     ND     ND     ND     ND
+13/01/2001  16:50:40            ND     ND     ND     ND     ND
+13/01/2001  17:05:40            ND     ND     ND     ND     ND
+13/01/2001  17:20:40            ND     ND     ND     ND     ND
+13/01/2001  17:35:40            ND     ND     ND     ND     ND
+13/01/2001  17:50:40            ND     ND     ND     ND     ND
+13/01/2001  18:05:40            ND     ND     ND     ND     ND
+13/01/2001  18:20:40            ND     ND     ND     ND     ND
+13/01/2001  18:35:40            ND     ND     ND     ND     ND
+13/01/2001  18:50:40            ND     ND     ND     ND     ND
+13/01/2001  19:05:40            ND     ND     ND     ND     ND
+13/01/2001  19:20:40            ND     ND     ND     ND     ND
+13/01/2001  19:35:40            ND     ND     ND     ND     ND
+13/01/2001  19:50:40            ND     ND     ND     ND     ND
+13/01/2001  20:05:40            ND     ND     ND     ND     ND
+13/01/2001  20:20:40            ND     ND     ND     ND     ND
+13/01/2001  20:35:40            ND     ND     ND     ND     ND
+13/01/2001  20:50:40            ND     ND     ND     ND     ND
+13/01/2001  21:05:40            ND     ND     ND     ND     ND
+13/01/2001  21:20:40            ND     ND     ND     ND     ND
+13/01/2001  21:35:40            ND     ND     ND     ND     ND
+13/01/2001  21:50:40            ND     ND     ND     ND     ND
+13/01/2001  22:05:40            ND     ND     ND     ND     ND
+13/01/2001  22:20:40            ND     ND     ND     ND     ND
+13/01/2001  22:35:40            ND     ND     ND     ND     ND
+13/01/2001  22:50:40            ND     ND     ND     ND     ND
+13/01/2001  23:05:40            ND     ND     ND     ND     ND
+13/01/2001  23:20:40            ND     ND     ND     ND     ND
+13/01/2001  23:35:40            ND     ND     ND     ND     ND
+13/01/2001  23:50:40            ND     ND     ND     ND     ND
+14/01/2001  00:05:40            ND     ND     ND     ND     ND
+14/01/2001  00:20:40            ND     ND     ND     ND     ND
+14/01/2001  00:35:40            ND     ND     ND     ND     ND
+14/01/2001  00:50:40            ND     ND     ND     ND     ND
+14/01/2001  01:04:40  HBV       ND     ND     ND     ND     ND
+14/01/2001  01:19:40  HBV      0.0     ND     ND     ND     ND
+14/01/2001  01:34:40  HBV      0.0     ND     ND     ND     ND
+14/01/2001  01:49:40  HBV      0.0     ND     ND     ND     ND
+14/01/2001  02:04:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  02:19:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  02:34:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  02:49:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  03:04:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  03:19:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  03:34:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  03:49:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  04:04:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  04:19:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  04:34:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  04:49:40  HBV      0.0    0.0     ND     ND     ND
+14/01/2001  05:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  05:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  05:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  05:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  06:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  06:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  06:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  06:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  07:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  07:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  07:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  07:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  08:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  08:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  08:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  08:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  09:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  09:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  09:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  09:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  10:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  10:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  10:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  10:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  11:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  11:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  11:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  11:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  12:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  12:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  12:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  12:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  13:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  13:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  13:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  13:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  14:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  14:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  14:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  14:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  15:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  15:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  15:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  15:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  16:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  16:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  16:34:40  HBV      3.2    3.2    3.2     ND     ND
+14/01/2001  16:49:40  HBV      1.4    4.6    4.6     ND     ND
+14/01/2001  17:04:40  HBV      0.2    4.8    4.8     ND     ND
+14/01/2001  17:19:40  HBV      0.0    4.8    4.8     ND     ND
+14/01/2001  17:34:40  HBV      0.0    1.6    4.8     ND     ND
+14/01/2001  17:49:40  HBV      0.0    0.2    4.8     ND     ND
+14/01/2001  18:04:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  18:19:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  18:34:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  18:49:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  19:04:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  19:19:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  19:34:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  19:49:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  20:04:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  20:19:40  HBV      0.0    0.0    4.8     ND     ND
+14/01/2001  20:34:40  HBV      0.0    0.0    1.6     ND     ND
+14/01/2001  20:49:40  HBV      0.0    0.0    0.2     ND     ND
+14/01/2001  21:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  21:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  21:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  21:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  22:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  22:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  22:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  22:49:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  23:04:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  23:19:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  23:34:40  HBV      0.0    0.0    0.0     ND     ND
+14/01/2001  23:49:40  HBV      0.0    0.0    0.0     ND     ND
+15/01/2001  00:04:40  HBV      0.0    0.0    0.0     ND     ND
+15/01/2001  00:19:40  HBV      0.0    0.0    0.0     ND     ND
+15/01/2001  00:34:40  HBV      0.0    0.0    0.0     ND     ND
+15/01/2001  00:49:40  HBV      0.0    0.0    0.0     ND     ND
+15/01/2001  01:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  01:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  01:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  01:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  02:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  02:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  02:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  02:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  03:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  03:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  03:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  03:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  04:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  04:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  04:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  04:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  05:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  05:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  05:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  05:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  06:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  06:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  06:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  06:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  07:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  07:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  07:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  07:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  08:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  08:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  08:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  08:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  09:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  09:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  09:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  09:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  10:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  10:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  10:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  10:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  11:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  11:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  11:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  11:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  12:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  12:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  12:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  12:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  13:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  13:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  13:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  13:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  14:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  14:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  14:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  14:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  15:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  15:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  15:34:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  15:49:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  16:04:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  16:19:40  HBV      0.0    0.0    0.0    4.8     ND
+15/01/2001  16:34:40  HBV      0.0    0.0    0.0    1.6     ND
+15/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.2     ND
+15/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0     ND
+15/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0     ND
+16/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0     ND
+17/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0     ND
+18/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0     ND
+18/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0     ND
+18/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0     ND
+18/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0     ND
+18/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    4.8
+18/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    1.6
+18/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.2
+18/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+18/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+19/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+20/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+21/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+22/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+23/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+24/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+25/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+26/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+27/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+28/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+29/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  21:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  21:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  21:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  21:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  22:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  22:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  22:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  22:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  23:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  23:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  23:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+30/01/2001  23:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  00:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  00:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  00:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  00:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  01:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  01:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  01:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  01:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  02:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  02:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  02:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  02:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  03:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  03:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  03:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  03:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  04:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  04:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  04:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  04:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  05:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  05:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  05:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  05:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  06:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  06:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  06:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  06:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  07:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  07:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  07:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  07:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  08:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  08:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  08:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  08:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  09:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  09:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  09:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  09:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  10:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  10:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  10:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  10:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  11:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  11:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  11:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  11:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  12:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  12:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  12:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  12:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  13:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  13:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  13:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  13:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  14:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  14:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  14:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  14:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  15:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  15:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  15:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  15:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  16:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  16:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  16:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  16:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  17:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  17:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  17:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  17:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  18:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  18:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  18:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  18:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  19:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  19:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  19:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  19:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  20:04:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  20:19:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  20:34:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  20:49:40  HBV      0.0    0.0    0.0    0.0    0.0
+31/01/2001  21:04:40  HBV      0.4    0.4    0.4    0.4    0.4
+31/01/2001  21:19:40  HBV      0.4    0.8    0.8    0.8    0.8
+31/01/2001  21:34:40  HBV      0.4    1.2    1.2    1.2    1.2
+31/01/2001  21:49:40  HBV      1.2    2.4    2.4    2.4    2.4
+31/01/2001  22:04:40  HBV      1.4    3.4    3.8    3.8    3.8
+31/01/2001  22:19:40  HBV      1.2    4.2    5.0    5.0    5.0
+31/01/2001  22:34:40  HBV      2.8    6.6    7.8    7.8    7.8
+31/01/2001  22:49:40  HBV      2.8    8.2   10.6   10.6   10.6
+31/01/2001  23:04:40  HBV      0.4    7.2   11.0   11.0   11.0
+31/01/2001  23:19:40  HBV      0.4    6.4   11.4   11.4   11.4
+31/01/2001  23:34:40  HBV      0.8    4.4   12.2   12.2   12.2
+31/01/2001  23:49:40  HBV      0.4    2.0   12.6   12.6   12.6

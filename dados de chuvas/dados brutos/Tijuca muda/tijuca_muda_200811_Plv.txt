@@ -1,0 +1,5 @@
+Relatório Pluviométrico da Estação: Tijuca/Muda
+
+Dados normalizados para o Horário Brasileiro de Verão (HBV)
+
+Dia         Hora      HBV   15 min   01 h   04 h   24 h   96 h
