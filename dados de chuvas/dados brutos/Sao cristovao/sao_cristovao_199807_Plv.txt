@@ -1,5 +1,0 @@
-Relatório Pluviométrico da Estação: Sao Cristovao
-
-Dados normalizados para o Horário Brasileiro de Verão (HBV)
-
-Dia         Hora      HBV   15 min   01 h   04 h   24 h   96 h
