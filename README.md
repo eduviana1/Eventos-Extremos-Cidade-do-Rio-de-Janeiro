@@ -1,4 +1,4 @@
-# Eventos Extremos Cidade do Rio de Janeiro
+[requirements.txt](https://github.com/user-attachments/files/18429013/requirements.txt)# Eventos Extremos Cidade do Rio de Janeiro
 
 ## Análises de Eventos Extremos ocorridos na Cidade do Rio de Janeiro
 ### Descrição:
@@ -7,17 +7,34 @@ O objetivo deste projeto foi o de criar um script em Python para realizar o down
 
 ### Detalhes
 
-O código de download dos arquivos é totalmente escrito em Python, a fim de que possa ser executado sem a necessidade de IDEs, e utiliza as seguintes bibliotecas:
+(O Site do Alerta Rio disponibiliza os arquivos em .txt com download manual por ano e estação)
+(Arquivos CSV são mais fáceis de tratar)
+(Dados antigos com Horário Brasileiro de Verão) 
+(Planilhas agrupadas por estação)
 
-- numpy 
-- pandas
-- os
-- zipfile
-- re
-- requests
+** Obs: A partir de Novembro de 2024 as estações pluviométricas também passaram a obter os dados de precipitação nos intervalos de 5 e 10 minutos  
+
+AlertaRioCSV.py é um script que possui funções que são utilizadas em MainAlertaRio.py, como:
+
 - 
 
-O Algorítmo está organizado na seguinte ordem:
+### Instruções
 
-1. 
+#### O código de download dos arquivos é totalmente escrito em Python, a fim de que possa ser executado sem a necessidade de IDEs, e requer a instalação das seguintes bibliotecas:
+
+ - numpy
+ - pandas
+ - requests
+
+ Que podem ser facilmente instaladas pelo terminal com os comandos
+
+ ```bash
+ pip install numpy
+ pip install pandas
+ pip install requests
+ ```
+
+
+Caso queria utilizar o script para baixar, tratar e gerar os CSVs, execute o MainAlertaRio.py que deve estar no mesmo diretório que o script AlertaRioCSV.py
+
 
