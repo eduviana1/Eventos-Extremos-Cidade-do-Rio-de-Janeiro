@@ -16,7 +16,13 @@ O objetivo deste projeto foi o de criar um script em Python para realizar o down
 
 AlertaRioCSV.py é um script que possui funções que são utilizadas em MainAlertaRio.py, como:
 
-- 
+- apaga_desc_txt:
+   - Apaga as primeiras linhas que contem uma breve descrição das estações e dos dados
+- txt_para_csv:
+   - Substitui os espacos em branco de tamanho irregular do txt em ',' (formato CSV)
+   - Corrige o formato do nome das colunas juntando as palavras 'min' e 'h' (ex: ['01', 'h'] se torna ['01 h']) 
+   - Transforma os 'ND' presentes no arquivo para a string 'nan' a fim de ser automaticamente identificado como np.nan no pandas
+- tratar_dados: C
 
 ### Instruções
 
