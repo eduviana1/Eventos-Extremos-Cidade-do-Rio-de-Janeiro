@@ -22,7 +22,9 @@ AlertaRioCSV.py é um script que possui funções que são utilizadas em MainAle
    - Substitui os espacos em branco de tamanho irregular do txt em ',' (formato CSV)
    - Corrige o formato do nome das colunas juntando as palavras 'min' e 'h' (ex: ['01', 'h'] se torna ['01 h']) 
    - Transforma os 'ND' presentes no arquivo para a string 'nan' a fim de ser automaticamente identificado como np.nan no pandas
-- tratar_dados: C
+- tratar_dados:
+   - Converte as colunas com os dados observados de object para float64 (caso possuam 'nan')
+   - Substitui os nan pela mediana da coluna
 
 ### Instruções
 
@@ -41,6 +43,6 @@ AlertaRioCSV.py é um script que possui funções que são utilizadas em MainAle
  ```
 
 
-Caso queria utilizar o script para baixar, tratar e gerar os CSVs, execute o MainAlertaRio.py que deve estar no mesmo diretório que o script AlertaRioCSV.py
+Caso queria utilizar o script para manualmente baixar, tratar e gerar os CSVs, execute o MainAlertaRio.py que deve estar no mesmo diretório que o script AlertaRioCSV.py
 
 
