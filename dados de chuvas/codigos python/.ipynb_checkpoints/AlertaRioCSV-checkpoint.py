@@ -95,7 +95,7 @@ def apaga_desc_txt(arquivo, n_linhas = 4):
     with open(arquivo,"r") as file:
         linhas = file.readlines()
         indice_linha = 1
-        if 'RelatÃ³rio' in linhas[0] or 'Relatório' in linhas[0]:
+        if 'RelatÃ³rio' in linhas[0]:
             with open(arquivo,"w") as file:
                 for linha in linhas:
                     if indice_linha > n_linhas:
