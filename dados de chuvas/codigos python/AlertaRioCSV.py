@@ -27,7 +27,6 @@ def download_alertario(dir_padrao):
     
     if os.path.exists(pasta_zip) == False:
         os.makedirs(pasta_zip)
-        print('pasta zip?')
     
     if os.path.exists(pasta_txt) == False:
         os.makedirs(pasta_txt)
